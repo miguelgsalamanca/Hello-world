@@ -1,2 +1,3 @@
 # Hello-world
 First repository on GitHub
+I'm a beginner in programming, but I want to learn Python, Java, Ruby on rail...
